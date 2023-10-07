@@ -1,2 +1,2 @@
 # noticias
-lista de noticias en github
+lista de noticias en para el inicio
