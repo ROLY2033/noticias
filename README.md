@@ -1,2 +1,3 @@
 # noticias
-lista de noticias en para el inicio
+lista de noticias del mundo de la informatica
+
